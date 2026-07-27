@@ -18,7 +18,6 @@ let router = createBrowserRouter([
     ],
   },
 ] ,{
-  basename:'/Adasa'
 });
 
 function App() {
